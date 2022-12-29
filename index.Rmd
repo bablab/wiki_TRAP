@@ -15,7 +15,6 @@ description: "TRAP Study"
 # Introduction
 This wiki contains information for the Temporal Relationship of Arousal and Predictability (TRAP Study).
 
-#Overview
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

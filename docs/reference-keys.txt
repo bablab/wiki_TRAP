@@ -3,3 +3,11 @@ overview
 summary
 aims
 background
+study-details
+task
+physiology
+questionnaires
+running-sessions
+pre-session
+during-session
+post-session
