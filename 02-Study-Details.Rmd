@@ -4,12 +4,12 @@
 [INSERT TEXT]
 
 ## Physiology
-Signals:
--ECG
--EDA
--Respiration
+**Signals:**
+* ECG
+* EDA
+* Respiration
 
-Sampling Rate: 1000 Hz
+**Sampling Rate:** 1000 Hz
 
 
 ## Questionnaires
