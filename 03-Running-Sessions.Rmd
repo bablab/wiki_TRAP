@@ -1,21 +1,20 @@
 # Running Sessions
 
 ## Pre-Session 
-\testbf{Recruitment}
+**Recruitment**
 
-•	All recruitment is conducted through SONA
+* All recruitment is conducted through SONA
 
-\testbf{Scheduling}
+**Scheduling**
 
-•	Slots are scheduled through SONA
+* Slots are scheduled through SONA
+* Each slot is 1 hour
 
-•	Each slot is 1 hour
+*Schedule at least 30 mins (Preferably 1 hour) between slots
 
-•	Schedule at least 30 mins (Preferably 1 hour) between slots
+*	**Make sure Slot is marked on “Bear Den” Calendar**
 
-•	Make sure Slot is marked on “Bear Den” Calendar
-
-•	Once a slot is filled, send Scheduling Email (see email templates on Box)
+*•*	Once a slot is filled, send Scheduling Email (see email templates on Box)
 
 •	For slot filled >1 week in advance, send reminder email 24-48hrs prior to session
 
