@@ -13,4 +13,4 @@ Sampling Rate: 1000 Hz
 
 
 ## Questionnaires
-[INSERT questionnaires here]
+[INSERT Questionniares Here]
