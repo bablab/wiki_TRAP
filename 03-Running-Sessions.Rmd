@@ -21,12 +21,12 @@
 
 1.	Arrive at least 15 minutes prior to the scheduled session start time.
 2.	Materials:
-  -	Consent Form (x2)
-  -	iPad
-  -	Electrodes (x5)
-  -	Gauze & Alcohol wipe (x3)
-  -	EDA (isotonic/white) paste (in syringe)
-  -	ECG (green) Gel
+    -	Consent Form (x2)
+    -	iPad
+    -	Electrodes (x5)
+    -	Gauze & Alcohol wipe (x3)
+    -	EDA (isotonic/white) paste (in syringe)
+    -	ECG (green) Gel
 3.	Make sure both the Stimulus and Physio Computers are On
 4.	Turn on MP160
 5.	Make sure Wi-Fi is off
@@ -37,20 +37,20 @@
 1.	Greet participant and walk them into Bear Den
 2.	Offer participant a mask if they do not have one
 3.	Briefly Describe the study to participants
-  -	i.e., “In this study we will first ask you to complete some questionnaires. Then we will attach some sensors to your torso and hand, that allow us to measure how your body reacts during the study. You will then watch some videos and rate how you are feeling throughout. The session can last up to 1 hour.”
+    -	i.e., “In this study we will first ask you to complete some questionnaires. Then we will attach some sensors to your torso and hand, that allow us to measure how your body reacts during the study. You will then watch some videos and rate how you are feeling throughout. The session can last up to 1 hour.”
 4.	Allow the participant to read through the consent form
 5.	Check if/answer any questions the participant might have
 6.	Have you and the participant sign and date both copies of the consent form
-  -	Keep one copy for our records; Have them take one copy for theirs
+    -	Keep one copy for our records; Have them take one copy for theirs
 
 **Questionnaires**
 
 1.	Open the REDCap Questionnaires on the iPad
 2.	Hand the participant the iPad and ask them to complete the questionnaires
-  -	You can let them know:
-  -	Each questionnaire will automatically proceed to the next
-  -	If they have any questions, they can ask you for clarification
-  -	It should take approximately 15 minutes
+    -	You can let them know:
+    -	Each questionnaire will automatically proceed to the next
+    -	If they have any questions, they can ask you for clarification
+    -	It should take approximately 15 minutes
 3.	When the participant has completed the questionnaires, they will return the iPad to you.
 
 **Physiological Hook-up**
@@ -59,43 +59,43 @@
 2.	Collect Height and Weight measurements (enter into REDCap).
 3.	Ask the participant if they have any skin allergies or sensitives
 4.	Summarize/explain the physiology procedure to the participant
-  -	i.e., “Ok, so now I am going to place some sensors on your body. The sensors will stick to your skin but can be easily peeled off. I will place one sensor on your right collarbone, two on your lower rib cages, and two on the palm of your non-dominant hand. Before place each sensory, I will clean the area with an alcohol wipe and some gauze. We will also place a respiration belt around torso. I will walk you through everything as we go, but if you have any questions or anything feels uncomfortable, don’t hesitate to let me know.”
+    -	i.e., “Ok, so now I am going to place some sensors on your body. The sensors will stick to your skin but can be easily peeled off. I will place one sensor on your right collarbone, two on your lower rib cages, and two on the palm of your non-dominant hand. Before place each sensory, I will clean the area with an alcohol wipe and some gauze. We will also place a respiration belt around torso. I will walk you through everything as we go, but if you have any questions or anything feels uncomfortable, don’t hesitate to let me know.”
 5.	Place ECG Electrodes:
-  -	Find where you will place sensor
-  -	Clean the area with the alcohol wipe and then gauze
-  -	Apply a small dot of electrode gel to the sensor
-  -	Stick the sensor to the skin
-  -	Repeat for all 3 spots
+    -	Find where you will place sensor
+    -	Clean the area with the alcohol wipe and then gauze
+    -	Apply a small dot of electrode gel to the sensor
+    -	Stick the sensor to the skin
+    -	Repeat for all 3 spots
 6.	Place Respiration belt:
-  -	It should fit semi-tightly around the torso, just above rib-ECG electrodes, but below sternum. Plastic piece in front and centered. 
-  -	It should NOT be uncomfortably tight
-  -	Remember when the participant sits, the belt will likely become slightly tighter
+    -	It should fit semi-tightly around the torso, just above rib-ECG electrodes, but below sternum. Plastic piece in front and centered. 
+    -	It should NOT be uncomfortably tight
+    -	Remember when the participant sits, the belt will likely become slightly tighter
 7.	Have Participant sit in chair (in front of stimulus computer).
 8.	Place EDA electrodes
-  -	Apply 0.2 mL of isotonic paste to each EDA electrode
-  -	Do NOT clean hand with alcohol
-  -	Place the two electrodes with paste on the palm of the participant’s non-dominant hand
-  -	Do not press on the center when placing – this will cause paste to squeeze out
+    -	Apply 0.2 mL of isotonic paste to each EDA electrode
+    -	Do **NOT** clean hand with alcohol
+    -	Place the two electrodes with paste on the palm of the participant’s non-dominant hand
+    -	Do not press on the center when placing – this will cause paste to squeeze out
 9.	Attached leads to electrodes
-  -	ECG & Respiration attach to same transmitter
-  -	EDA has its own transmitter (attaches to wrist)
+    -	ECG & Respiration attach to same transmitter
+    -	EDA has its own transmitter (attaches to wrist)
 10.	Check Signals in Acqknowledge
 
 **TRAP Task**
 
 1.	Open Matlab
 2.	Make sure you are in the correct folder
-  -	/Users/brainandbodylabmacmini2/Desktop/TRAP_Task
+    -	/Users/brainandbodylabmacmini2/Desktop/TRAP_Task
 3.	In the Console Window type: TRAP_Task(‘trap_XXX’)
-  -	i.e., Participant 1 would be ‘trap_001’
+    -	i.e., Participant 1 would be ‘trap_001’
 4.	Press Enter
 5.	Walk participant through instructions
 6.	Make sure participant has headphones on
 7.	Rest of task will proceed automatically
 8.	During the task monitor both the physiology and participant
-  -	Make notes throughout:
-    -	i.e., Physio signal looked weird, participant talked/laughed, etc.
-    -	Try to note times as well to make it easier to examine post-hoc
+    -	Make notes throughout:
+      -	i.e., Physio signal looked weird, participant talked/laughed, etc.
+      -	Try to note times as well to make it easier to examine post-hoc
 9.	After Task is Complete, ask Video Familiarity Questions
 
 >**Matlab Troubleshooting:**
@@ -108,7 +108,7 @@
 1.	Stop the physio recording
 2.	Detect the wires from the participant
 3.	Have participant remove sensors
-  -	They can do this themselves or you can help if they prefer
+    -	They can do this themselves or you can help if they prefer
 4.	Ask the participant if they have any questions about the study
 5.	Let them know they are all set and that their SONA credit should show up in within 24 hours
 
@@ -117,10 +117,10 @@
 **Data Back-up**
 
 1.	Make sure to save Physio Data
-  - Use naming convention: ‘trap_XXX_physio.acq’
+    - Use naming convention: ‘trap_XXX_physio.acq’
 2.	Upload/back-up both the behavioral data and physio file to Box
-  -	*Arousal Data:* BABLab/Studies/TRAP/Data/Behavioral
-  -	*Physio Data:* BABLab/ Studies/TRAP/Data/Physio
+    -	*Arousal Data:* BABLab/Studies/TRAP/Data/Behavioral
+    -	*Physio Data:* BABLab/ Studies/TRAP/Data/Physio
 3.	Store any paper copies (i.e., consent forms) in locked cabinet
-  -	All consent forms should be stored in alphabetical order, by last name
+    -	All consent forms should be stored in alphabetical order, by last name
 4.	Update participant tracking sheet
