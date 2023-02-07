@@ -1,10 +1,22 @@
 # Overview
 
 ## Summary 
-[INSERT TEXT]
+
+In this study participants will first be asked to complete a battery of questionnaires. They will then watch videos that are intended to evoke affective and physiological responses, while we collect continuous measures of subjective and physiological arousal. 
+
+We plan to measure the temporal concordance between the subjective and objective arousal. We will then test the relationship between temporal concordance and individual difference measures related to psychological well-being. We also plan to test if predictability of stimuli alters the temporal concordance of arousal.
+
+
 
 ## Aims
-[INSERT TEXT]
+
+**Specific Aim 1:** Establish if differences in temporal concordance between subjective and objective arousal associated with individual differences in psychological well-being.
+
+**Specific Aim 2:** Establish if differences in temporal concordance between subjective and objective arousal associated with individual differences in early life experience.
+
+**Specific Aim 3:** Test if predictability alters the temporal concordance between subjective and objective arousal.
+
 
 ## Background
-[INSERT TEXT]
+
+To maximize efficiency, the brain anticipates the needs of the body and prepares to meet them before they arise. The brain must accurately and efficiently perceive, integrate, and represent afferent information about the body to do this, a process known as interoception. Dimensions of interception have been associated with well-being and our experience of arousal. In this current study, we plan to investigate the temporal relationship between continuous subjective and objective measures of physiological arousal, a relationship that likely involves interoceptive processes. We will test if this proxy-measure of interoception is related to individual differences in psychological well-being and early life experiences. Additionally, we plan to test the hypothesis that environmental predictability will be associated with the temporal concordance of subjective and objective arousal. This work with further our understanding of how interoceptive efficiency may be a critical mechanism to overall well-being, as well as how it contributes to our everyday experience of arousal.
