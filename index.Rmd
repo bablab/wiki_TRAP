@@ -1,5 +1,5 @@
 --- 
-title: "Temporal Relationship of Arousal and Predictibility (TRAP)"
+title: "Sensations of Motherhood (SoM)"
 author: "Paul W. Savoca & Bridget L. Callaghan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -9,11 +9,11 @@ bibliography: [book.bib, packages.bib, ref.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "TRAP Study"
+description: "SoM Study"
 ---
 
 # Introduction
-This wiki contains information for the Temporal Relationship of Arousal and Predictability (TRAP Study).
+This wiki contains information for the Sensations of Motherhood (SoM) Study.
 
 
 ```{r include=FALSE}
