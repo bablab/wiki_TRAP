@@ -4,9 +4,10 @@ summary
 aims
 background
 study-details
-study-design
+task
+physiology
 questionnaires
-data-collection
-recruitment
-gorilla
-data-back-up
+running-sessions
+pre-session
+during-session
+post-session
