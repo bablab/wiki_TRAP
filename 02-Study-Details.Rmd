@@ -4,8 +4,12 @@
 
 **TRAP Task Overview**
 ![<!--- Task --->](images/trap_task_overview.png)
-- Participants continuously (~6 samples/second) report their subjective experience of arousal throughout the task.
-- The rating of arousal does not have bounds: it can increase or decrease without limit. Therefore, all responses should be considered relative within a participant. 
+- Participants continuously (sampled at 5 Hz) report their subjective experience of arousal throughout the task.
+- The rating of arousal does not have bounds: it can increase or decrease without limit. Therefore, all responses should be considered relative within a participant.
+
+**Videos**
+- Videos were previously normed in another study (Schaefer et al., 2010)
+- https://sites.uclouvain.be/ipsp/FilmStim/ 
 
 ## Physiology
 **Signals:**
