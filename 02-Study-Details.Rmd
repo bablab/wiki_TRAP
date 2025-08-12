@@ -41,3 +41,12 @@
   - Glynn, L. M., Stern, H. S., Howland, M. A., Risbrough, V. B., Baker, D. G., Nievergelt, C. M., ... & Davis, E. P. (2019). Measuring novel antecedents of mental illness: the Questionnaire of Unpredictability in Childhood. Neuropsychopharmacology, 44(5), 876-882.
 - **Toronto Alexithymia Scale 20 (TAS-20)**
   - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
+  
+## TRAP 2.0
+To replicate findings from the initial TRAP analyses, a second dataset (TRAP 2.0) was collected. The procedure was largely the same with some minor adjustments or improvements:
+- The task was programed in Psychopy to improve quality from Matlab Version
+- The first Video (V1a and V1b) was replace by a clip from The Piano (still Negative Valence, High Arousal)
+- The second video (V2) was replaced with a clip from Dead Poets Society (Postive Valence, High Arousal) to attempt to distinguish arousal effects from valence effects.
+- In addition to ECG, EDA, and Respiration, Impedance Cardiography (ICG) was also collected during the task using a 4 spot electrode configuration (top of sternum, ziphoid, lower neck, lower back).
+- The ASI-3 was not administered in TRAP 2.0
+- However, the CTQ (short version from SoM), Interoceptive Confusion Questionnaire (ICQ), and State Trait Anxiety Inventory - Trait (STAI-T) were all added
